@@ -1,0 +1,2 @@
+class Potty < ApplicationRecord
+end
