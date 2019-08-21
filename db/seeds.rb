@@ -9,7 +9,6 @@
 Potty.create(
     number: 1,
     notes: "he was outside",
-    date: '08/21/2019',
-    location: "grass"
-
+    date: "2019-08-21",
+    location: "outside"
 )
