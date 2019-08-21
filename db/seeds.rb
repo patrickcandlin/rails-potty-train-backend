@@ -5,3 +5,11 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Potty.create(
+    number: 1,
+    notes: "he was outside",
+    date: '08/21/2019',
+    location: "grass"
+
+)
